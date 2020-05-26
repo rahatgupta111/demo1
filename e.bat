@@ -5,4 +5,4 @@ FOR /R %cd% %%a IN (*.qvw) DO (
 cscript a.vbs "%%a"
 
 
-)
+)cdlckndcldkc
