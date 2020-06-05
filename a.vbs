@@ -16,9 +16,3 @@ MyDoc.CloseDoc()
 MyApp.Sleep 2000
 
 MyApp.Quit()
-
-Set MyDoc = Nothing
-
-Set MyApp = Nothing
-
-dscwf
