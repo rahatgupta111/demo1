@@ -20,8 +20,4 @@ MyApp.Quit()
 
 Set MyDoc = Nothing
 
-Set MyApp = Nothing
 
-cdwwdc
-
-added by rahat2
