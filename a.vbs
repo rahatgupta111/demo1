@@ -20,4 +20,4 @@ MyApp.Quit()
 
 Set MyDoc = Nothing
 
-
+demo checiking
